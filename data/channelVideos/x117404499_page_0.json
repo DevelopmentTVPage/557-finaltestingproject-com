@@ -1,0 +1,49 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "117404487",
+            "title": "[1508371213] \ud638\uc0b0\ub098 \uc131\uac00\ub300: \ud558\ub098\ub2d8\uaed8\uc11c \uc6b0\ub9b4 \uc704\ud558\uc2dc\uba74",
+            "date_created": "1444073303",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "\ud638\uc0b0\ub098 \uc131\uac00\ub300: \ud558\ub098\ub2d8\uaed8\uc11c \uc6b0\ub9b4 \uc704\ud558\uc2dc\uba74\n\n\uc0cc\ub514\uc5d0\uace0 \uac08\ubcf4\ub9ac \uad50\ud68c",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/OSduiM3UtKk\/maxresdefault.jpg",
+                "uploadDate": 1444073303,
+                "videoId": "OSduiM3UtKk",
+                "title": "\ud638\uc0b0\ub098 \uc131\uac00\ub300: \ud558\ub098\ub2d8\uaed8\uc11c \uc6b0\ub9b4 \uc704\ud558\uc2dc\uba74",
+                "description": "\ud638\uc0b0\ub098 \uc131\uac00\ub300: \ud558\ub098\ub2d8\uaed8\uc11c \uc6b0\ub9b4 \uc704\ud558\uc2dc\uba74\n\n\uc0cc\ub514\uc5d0\uace0 \uac08\ubcf4\ub9ac \uad50\ud68c",
+                "author": "SDCKC",
+                "mediaDuration": 228,
+                "prettyDuration": "00:03:48",
+                "views": "147"
+            },
+            "parentId": "117404499",
+            "url": "\/new-widget-channel\/\ud638\uc0b0\ub098-\uc131\uac00\ub300-\ud558\ub098\ub2d8\uaed8\uc11c-\uc6b0\ub9b4-\uc704\ud558\uc2dc\uba74\/117404499-117404487"
+        },
+        {
+            "id": "117404488",
+            "title": "[1508371213] \ubaa8\ud241\uc774\ud1a8 \uc120\uad50\ud68c - \uc774\uc0ad \ubaa9\uc0ac\ub2d8",
+            "date_created": "1443662186",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "\ubaa8\ud241\uc774\ub3cc \uc120\uad50\ud68c \uc774\uc0ad \ubaa9\uc0ac\ub2d8\n\n\uc0cc\ub514\uc5d0\uace0 \uac08\ubcf4\ub9ac \uad50\ud68c",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/q_UrcuVJqlw\/maxresdefault.jpg",
+                "uploadDate": 1443662186,
+                "videoId": "q_UrcuVJqlw",
+                "title": "\ubaa8\ud241\uc774\ud1a8 \uc120\uad50\ud68c - \uc774\uc0ad \ubaa9\uc0ac\ub2d8",
+                "description": "\ubaa8\ud241\uc774\ub3cc \uc120\uad50\ud68c \uc774\uc0ad \ubaa9\uc0ac\ub2d8\n\n\uc0cc\ub514\uc5d0\uace0 \uac08\ubcf4\ub9ac \uad50\ud68c",
+                "author": "SDCKC",
+                "mediaDuration": 5234,
+                "prettyDuration": "01:27:14",
+                "views": "15738"
+            },
+            "parentId": "117404499",
+            "url": "\/new-widget-channel\/\ubaa8\ud241\uc774\ud1a8-\uc120\uad50\ud68c-\uc774\uc0ad-\ubaa9\uc0ac\ub2d8\/117404499-117404488"
+        }
+    ]
+}
