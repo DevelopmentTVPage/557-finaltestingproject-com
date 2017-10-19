@@ -1,0 +1,15 @@
+{
+    "title": "Final Project",
+    "baseURL": "https:\/\/finaltestingproject.com\/final",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/final",
+        "firstpartycookies": true,
+        "cookiedomain": "finaltestingproject.com"
+    }
+}
