@@ -6,10 +6,11 @@
         "maxAds": 100,
         "adInterval": 0
     },
-    "preload": false,
+    "preload": true,
     "type": "inline",
     "title": "Final Widget",
     "name": "final-widget",
-    "channelId": "117404499",
-    "layout": "bootstrap"
+    "channelId": "117404498",
+    "layout": "bootstrap",
+    "autoplay": true
 }
